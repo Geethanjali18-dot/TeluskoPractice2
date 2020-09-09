@@ -1,0 +1,15 @@
+tup=(21,36,14,25,12,13,15,21)
+print(tup)
+print(tup[1])
+#tup[1]=45
+print(tup.index(36))
+print(tup.count(21))
+s={22,25,14,21,5,5}
+print(s)
+#print(s[2])
+s.add(18)
+print(s)
+s.remove(25)
+print(s)
+s.pop()
+print(s)

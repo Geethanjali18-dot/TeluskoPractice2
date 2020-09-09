@@ -1,0 +1,21 @@
+num=5
+print(num)
+print(id(num))
+name="Geetha"
+print(id(name))
+a=10
+b=a
+print(id(a))
+print(id(b))
+print(id(10))
+k=10
+print(id(k))
+a=9
+print(id(a))
+print(id(b))
+k=a
+print(id(k))
+b=8
+print(id(b))
+PI=3.14 #Constant
+print(type(PI))
